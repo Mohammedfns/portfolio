@@ -2,7 +2,7 @@ import { ImageResponse } from 'next/og';
  
 export const runtime = 'edge';
  
-export const alt = 'Portfolio de John Doe - Développeur Web';
+export const alt = 'Portfolio de EL-FANNASSI Mohammed - Data Analyst/Data Scientist';
 export const size = {
   width: 1200,
   height: 630,
@@ -34,7 +34,7 @@ export default async function Image() {
             marginBottom: 24,
           }}
         >
-          John Doe
+          EL-FANNASSI Mohammed
         </div>
         <div
           style={{

@@ -6,7 +6,7 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://johndoe-portfolio.com/sitemap.xml',
+    sitemap: 'https://elfannassimohammed-portfolio.com/sitemap.xml',
   };
 }
 

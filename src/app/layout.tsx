@@ -18,30 +18,30 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Portfolio | John Doe - Développeur Web",
-  description: "Portfolio professionnel de John Doe, développeur web spécialisé en React, Next.js et Tailwind CSS.",
-  keywords: ["développeur web", "portfolio", "React", "Next.js", "Tailwind CSS", "frontend", "développeur frontend"],
-  authors: [{ name: "John Doe" }],
-  creator: "John Doe",
-  publisher: "John Doe",
+  title: "Portfolio | EL-FANNASSI Mohammed - Développeur Web",
+  description: "Portfolio professionnel de EL-FANNASSI Mohammed.",
+  keywords: ["data analyst", "portfolio", "React", "Next.js", "Tailwind CSS", "frontend", "data scientist"],
+  authors: [{ name: "EL-FANNASSI Mohammed" }],
+  creator: "EL-FANNASSI Mohammed",
+  publisher: "EL-FANNASSI Mohammed",
   robots: "index, follow",
-  metadataBase: new URL("https://johndoe-portfolio.com"),
+  metadataBase: new URL("https://elfannassimohammed-portfolio.com"),
   alternates: {
     canonical: "/",
   },
   openGraph: {
-    title: "Portfolio | John Doe - Développeur Web",
-    description: "Portfolio professionnel de John Doe, développeur web spécialisé en React, Next.js et Tailwind CSS.",
-    url: "https://johndoe-portfolio.com",
-    siteName: "Portfolio de John Doe",
+    title: "Portfolio | EL-FANNASSI Mohammed - Data Analyst/Data Scientist",
+    description: "Portfolio professionnel de EL-FANNASSI Mohammed.",
+    url: "https://elfannassimohammed-portfolio.com",
+    siteName: "Portfolio de EL-FANNASSI Mohammed",
     locale: "fr_FR",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Portfolio | John Doe - Développeur Web",
-    description: "Portfolio professionnel de John Doe, développeur web spécialisé en React, Next.js et Tailwind CSS.",
-    creator: "@johndoe",
+    title: "Portfolio | EL-FANNASSI Mohammed - Data Analyst/Data Scientist ",
+    description: "Portfolio professionnel de EL-FANNASSI.",
+    creator: "@elfannassimohammed",
   },
 };
 
