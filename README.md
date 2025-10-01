@@ -1,6 +1,13 @@
-# Portfolio Next.js avec Tailwind CSS
+#  Portfolio - Mohammed El-Fannassi
 
-Un portfolio moderne et élégant développé avec Next.js et Tailwind CSS.
+Un portfolio moderne et élégant développé avec **Next.js** et **Tailwind CSS**, mettant en avant mes projets, mes compétences en data science et mon parcours professionnel.  
+ [Voir en ligne](https://portfolio-elfannassi-mohammed.vercel.app/)
+
+ ## 🚀 Technologies
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## Fonctionnalités
 
